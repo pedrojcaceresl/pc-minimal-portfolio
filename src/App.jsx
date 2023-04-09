@@ -63,7 +63,7 @@ function App() {
 	);
 
 	return (
-		<>
+		<div>
 			<button
 				type="button"
 				onClick={handleThemeSwitch}
@@ -75,12 +75,14 @@ function App() {
 				<div className="max-w-5xl w-11/12 mx-auto">
 					<Intro />
 					<Portfolio />
-					<Timeline />
-					<Contact />
+					{/* <Timeline /> */}
+					<div className="mt-20">
+						<Contact />
+					</div>
 					<Footer />
 				</div>
 			</div>
-		</>
+		</div>
 	);
 }
 
