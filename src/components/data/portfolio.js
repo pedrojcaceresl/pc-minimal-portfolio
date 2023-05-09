@@ -11,6 +11,21 @@ export default [
 		stack: ["Angular", "Bootstrap", "HTML", "TypeScript", "Animate.css"],
 		link: "https://micountryapp.netlify.app/",
 	},
+	{
+		title: "Cumbres De San Bernardino",
+		imgUrl: "https://ik.imagekit.io/pjcaceres/smartmockups_lhfkbkbc.jpg?updatedAt=1683593920720",
+		stack: [
+			"Angular",
+			"Tailwind",
+			"HTML",
+			"Material",
+			"DaisyUI",
+			"TypeScript",
+			"Animate.css",
+		],
+		link: "https://cumbresdesanbernardino.com",
+	},
+
 	// {
 	// 	title: "Real Estate Site",
 	// 	imgUrl: "https://cdn.dribbble.com/users/2492784/screenshots/9165657/v1_4x.png",
