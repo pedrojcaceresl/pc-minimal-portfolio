@@ -1,16 +1,21 @@
 export default [
 	{
-		title: "PrecisApp (Insurance website)",
-		imgUrl: "https://ik.imagekit.io/pjcaceres/pika-1681080573822-1x.jpeg?updatedAt=1681080581631",
-		stack: ["Angular", "Tailwind", "Firebase", "HTML"],
-		link: "https://precisapp.net/",
+		title: "Paraqvaria Aero & Marina Country Club",
+		imgUrl: "https://ik.imagekit.io/pjcaceres/paraqvariaaeroymarina.com_%20(1).png?updatedAt=1690149047647",
+		stack: [
+			"Angular",
+			"Tailwind",
+			"HTML",
+			"Material",
+			"DaisyUI",
+			"TypeScript",
+			"Animate.css",
+			"Cloudinary",
+			"Firebase Storage",
+		],
+		link: "https://paraqvariaaeroymarina.com/",
 	},
-	{
-		title: "Search For Countries Website",
-		imgUrl: "https://ik.imagekit.io/pjcaceres/pika-1681079867392-1x.png?updatedAt=1681079893442",
-		stack: ["Angular", "Bootstrap", "HTML", "TypeScript", "Animate.css"],
-		link: "https://micountryapp.netlify.app/",
-	},
+	,
 	{
 		title: "Cumbres De San Bernardino",
 		imgUrl: "https://ik.imagekit.io/pjcaceres/smartmockups_lhfkbkbc.jpg?updatedAt=1683593920720",
@@ -24,6 +29,32 @@ export default [
 			"Animate.css",
 		],
 		link: "https://cumbresdesanbernardino.com",
+	},
+	{
+		title: "Rocío Inmuebles",
+		imgUrl: "https://ik.imagekit.io/pjcaceres/rocioinmuebles.com_%20(1).png?updatedAt=1690149255707",
+		stack: [
+			"Angular",
+			"Tailwind",
+			"HTML",
+			"Material",
+			"DaisyUI",
+			"TypeScript",
+			"Animate.css",
+		],
+		link: "https://rocioinmuebles.com/",
+	},
+	{
+		title: "PrecisApp (Insurance website)",
+		imgUrl: "https://ik.imagekit.io/pjcaceres/pika-1681080573822-1x.jpeg?updatedAt=1681080581631",
+		stack: ["Angular", "Tailwind", "Firebase", "HTML"],
+		link: "https://precisapp.net/",
+	},
+	{
+		title: "Search For Countries Website",
+		imgUrl: "https://ik.imagekit.io/pjcaceres/pika-1681079867392-1x.png?updatedAt=1681079893442",
+		stack: ["Angular", "Bootstrap", "HTML", "TypeScript", "Animate.css"],
+		link: "https://micountryapp.netlify.app/",
 	},
 
 	// {
